@@ -1,0 +1,14 @@
+Algoritm,Operatie,Timp(ms)
+AES,Criptare,69.8573
+AES,Decriptare,3.2946
+DES,Criptare,3.6368
+DES,Decriptare,2.918
+3DES,Criptare,3.359
+3DES,Decriptare,3.2773
+RSA,Criptare,3.3623
+RSA,Decriptare,25.7332
+ECC,Semnatura valida,23.6066
+SHA-256,Hashing,1.6254
+SHA-1,Hashing,1.3669
+SHA-512,Hashing,2.0858
+MD5,Hashing,2.1665

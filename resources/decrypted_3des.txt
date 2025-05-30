@@ -1,0 +1,4 @@
+Aceasta este o simulare de criptare a unui mesaj.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Textul criptat va fi testat împotriva unui atac de tip dictionary.
+Parola corecta este bine ascunsa in procesul de criptare.
