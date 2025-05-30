@@ -6,7 +6,8 @@ This Java-based project provides a comparative analysis of cryptographic algorit
 
 ## How to run
 
-- **Java 21**
+- **Java 21** (Might work on java 17)
+
 - Clone the repository and run **MainGUI.java**, the project comes with encrypted/decrypted docs so every single option works out,
 -  if you want to try it on your data, modify the **resources/input.txt** file
 -  To modify keys go to **gui/TestRunner** and modify the **key** values inside of **runCryptoTests()**
